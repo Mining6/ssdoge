@@ -23,7 +23,7 @@ Link Apk : https://play.google.com/store/apps/details?id=org.sssj.com.sseth
 
 2.pkg install php
 
-3.git clone https://github.com/Muhamadrianto97/sseth.git
+3.git clone https://github.com/Muhamadrianto97/ssdoge.git
 
 4.cd ssdoge
 
@@ -53,7 +53,7 @@ Note:Untuk C9/Codeanywhere kalian Harus Bikin akun nya di c9/codeanywherenya
 
 3.sudo apt install git (kalo udah pernah skip)
 
-3.git clone https://github.com/Muhamadrianto97/sseth.git
+3.git clone https://github.com/Muhamadrianto97/ssdoge.git
 
 4.cd ssdoge
 
