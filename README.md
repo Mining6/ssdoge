@@ -1,7 +1,7 @@
 ===============================================================================
 # CARA DAPETIN Devid
 
-Link Apk : https://play.google.com/store/apps/details?id=org.sssj.com.sseth
+Link Apk : https://play.google.com/store/apps/details?id=org.sssj.com.dogecoin
 
 1.buka aplikasi packet capture atau instal ssl capture.
 
